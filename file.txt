@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 Update file
+=======
+New change
+>>>>>>> 9e8be01 (Added new changes)
