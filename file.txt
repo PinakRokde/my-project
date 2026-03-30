@@ -3,4 +3,8 @@ hello
 Update file
 =======
 New change
+<<<<<<< HEAD
 >>>>>>> 9e8be01 (Added new changes)
+=======
+new change
+>>>>>>> da1385e (Added new changes)
